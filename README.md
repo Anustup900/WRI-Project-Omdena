@@ -1,6 +1,5 @@
 Reference : Special Thanks to Jiahui Lu for putting up this great notebook on satellite imagery
 
-https://github.com/carsonluuu/Poverty-Prediction-by-Satellite-Imagery
 
 
 # Poverty Prediction by Combination of Satellite Imagery and Machine Learning
